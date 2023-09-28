@@ -5,9 +5,9 @@
 <body align="center">
  <div align="center"> 
 <a href="https://github.com/Carlamagalhaes1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SaraMag25&theme=transparent&rank_icon=github&show_icons=true&repo-private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlamagalhaes1&theme=transparent&rank_icon=github&show_icons=true&repo-private=true" />
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraMag25&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlamagalhaes1&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
