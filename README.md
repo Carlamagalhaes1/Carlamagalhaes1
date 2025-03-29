@@ -16,7 +16,7 @@ Olá sou Carla 👋
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="50" width="40" src="https://en.vetores.org/wp-content/uploads/typescript-768x432.png" />
+ 
 </div>
 
 <hr>
